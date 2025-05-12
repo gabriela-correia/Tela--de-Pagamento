@@ -30,6 +30,6 @@ Bem-vindo à Página de Pagamento – um projeto front-end desenvolvido para sim
 
   ---
 
- ## 🔗 Acesse o projeto: Clique aqui para visualizar
+ ## 🔗 Acesse o projeto: https://gabriela-correia.github.io/Tela--de-Pagamento/
 
   
