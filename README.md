@@ -1,30 +1,35 @@
-## 💳 Página de Pagamento - Projeto Web
-Este projeto simula uma página de pagamento moderna e interativa, desenvolvida com HTML, CSS e JavaScript puro. O objetivo é proporcionar uma experiência simples e funcional para o usuário realizar pagamentos via Pix ou Cartão de Crédito, com interface responsiva e validação de dados.
+## 💳 Página de Pagamento | Projeto Web Responsivo
+
+Bem-vindo à Página de Pagamento – um projeto front-end desenvolvido para simular uma experiência real de pagamento online, com design responsivo, interface moderna e lógica interativa em JavaScript.
 
 
 ---
 
 ## 🧾 Funcionalidades:
-Campo para inserção do valor a ser pago.
 
-Seleção entre Pix e Cartão de Crédito.
+* Campo de valor dinâmico – digite quanto deseja pagar.
 
-Painéis dinâmicos que exibem o formulário correspondente ao método escolhido.
+* Escolha entre Pix ou Cartão de Crédito – interface que se adapta com base na seleção.
 
-Cálculo de desconto para pagamentos via Pix.
+* Cálculo automático de descontos e juros – Pix tem desconto; cartão pode ter juros conforme as parcelas.
 
-Cálculo de total com ou sem juros conforme o número de parcelas no cartão.
+* Reconhecimento de bandeira do cartão – detecta Visa, MasterCard e outras.
 
-Exibição automática da bandeira do cartão (Visa, MasterCard, etc).
+* Validação de dados – inputs com foco em usabilidade e segurança.
 
-Botões para simular o pagamento em cada método.
-
-
+  
 ---
 
 ## 🛠 Tecnologias:
-HTML5
 
-CSS3
+* HTML5
 
-JavaScript
+* CSS3
+
+* JavaScript
+
+  ---
+
+ ## 🔗 Acesse o projeto: Clique aqui para visualizar
+
+  
